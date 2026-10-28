@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/banner.png" alt="wen: &quot;coming soon.&quot; cool. but wen?" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://x.com/wenreport"><img src="https://img.shields.io/badge/follow-%40wenreport-F75347?style=for-the-badge&logo=x&logoColor=white" alt="follow @wenreport on X"></a>
+  <a href="https://x.com/marrowleaf"><img src="https://img.shields.io/badge/built%20by-%40marrowleaf-111111?style=for-the-badge&logo=x&logoColor=white" alt="built by @marrowleaf on X"></a>
+</p>
+
 # wen?
 
 **"coming soon." cool. but wen?**
@@ -159,3 +168,7 @@ python3 scripts/build_readme.py --check    # exits 1 if the README is stale
 ```
 
 the script only rewrites the bit between the `SCOREBOARD` markers. python 3.9+, no dependencies.
+
+---
+
+<p align="center"><img src="assets/logo.png" alt="wen logo" width="96"><br>built in public by <a href="https://x.com/marrowleaf">@marrowleaf</a> · scores posted by <a href="https://x.com/wenreport">@wenreport</a></p>
