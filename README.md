@@ -66,11 +66,11 @@ we score what was actually promised. if they said "generally available", a previ
 
 <!-- SCOREBOARD:START -->
 
-_last updated 28 Oct 2026 (UK). generated from [`data/tracker.csv`](data/tracker.csv) by [`scripts/build_readme.py`](scripts/build_readme.py)._
+_last updated 29 Oct 2026 (UK). generated from [`data/tracker.csv`](data/tracker.csv) by [`scripts/build_readme.py`](scripts/build_readme.py)._
 
-**44 promises tracked: 21 on time, 3 late, 4 overdue, 11 pending, 5 vague (not scored).**
+**49 promises tracked: 22 on time, 3 late, 4 overdue, 15 pending, 5 vague (not scored).**
 
-**on-time rate: 75%** (21 of 28 promises whose deadline has passed or that already shipped).
+**on-time rate: 76%** (22 of 29 promises whose deadline has passed or that already shipped).
 
 ### overdue
 
@@ -78,10 +78,10 @@ deadline's gone, no sign of it.
 
 | company | promise | promised | deadline | verdict | sources |
 |---|---|---|---|---|---|
-| Rockstar Games | Grand Theft Auto VI is now set to release on May 26, 2026. | May 26, 2026 | 26 May 2026 | 🔴 155 days overdue | [post](https://x.com/RockstarGames/status/1918265468076605706) |
-| PlayStation | The FlexStrike wireless fight stick and PlayStation 27’’ Gaming Monitor launch this August | this August | 31 Aug 2026 | 🔴 58 days overdue | [post](https://x.com/PlayStation/status/2061462930864910415) |
-| Uber | Starting this summer in Las Vegas and next year in Los Angeles, Uber riders can get… | this summer (Las Vegas) | 22 Sep 2026 | 🔴 36 days overdue | [post](https://x.com/Uber/status/2031717139715928492) |
-| Nintendo | Kyoto Xanadu, a brand-new action RPG from @nihonfalcom, is coming this summer on Nintendo… | this summer | 22 Sep 2026 | 🔴 36 days overdue | [post](https://x.com/NintendoAmerica/status/2019415907945128016) |
+| Rockstar Games | Grand Theft Auto VI is now set to release on May 26, 2026. | May 26, 2026 | 26 May 2026 | 🔴 156 days overdue | [post](https://x.com/RockstarGames/status/1918265468076605706) |
+| PlayStation | The FlexStrike wireless fight stick and PlayStation 27’’ Gaming Monitor launch this August | this August | 31 Aug 2026 | 🔴 59 days overdue | [post](https://x.com/PlayStation/status/2061462930864910415) |
+| Uber | Starting this summer in Las Vegas and next year in Los Angeles, Uber riders can get… | this summer (Las Vegas) | 22 Sep 2026 | 🔴 37 days overdue | [post](https://x.com/Uber/status/2031717139715928492) |
+| Nintendo | Kyoto Xanadu, a brand-new action RPG from @nihonfalcom, is coming this summer on Nintendo… | this summer | 22 Sep 2026 | 🔴 37 days overdue | [post](https://x.com/NintendoAmerica/status/2019415907945128016) |
 
 ### late
 
@@ -90,7 +90,7 @@ got there in the end.
 | company | promise | promised | deadline | verdict | sources |
 |---|---|---|---|---|---|
 | Google | Ironwood, our most powerful and energy-efficient Tensor Processing Unit (TPU) yet, will… | in the coming weeks | 1 Jan 2026 | 🟠 89 days late (shipped 31 Mar 2026) | [post](https://x.com/Google/status/1986537172770390389) · [shipped](https://docs.cloud.google.cn/tpu/docs/release-notes) |
-| Xbox | Then get ready for DAVE THE DIVER: In the Jungle DLC in early 2026 | early 2026 | 30 Apr 2026 | 🟠 49 days late (shipped 18 Jun 2026) | [post](https://x.com/XBOX/status/1991568935469355417) · [shipped](https://www.gematsu.com/2026/03/dave-the-diver-dlc-in-the-jungle-launches-june-18) |
+| Xbox | Then get ready for DAVE THE DIVER: In the Jungle DLC in early 2026 | early 2026 | 30 Apr 2026 | 🟠 49 days late (shipped 18 Jun 2026) | [post](https://x.com/XBOX/status/1991568935469355417) · [shipped](https://news.xbox.com/en-us/2026/06/18/dave-the-diver-in-the-jungle-out-now/) |
 | Xbox | Gaming Copilot (Beta) is starting to roll out on PC Game Bar today and the Xbox mobile… | next month (Oct 2025) | 31 Oct 2025 | 🟠 25 days late (shipped 25 Nov 2025) | [post](https://x.com/XBOX/status/1968706674643882324) · [shipped](https://news.xbox.com/en-us/2025/11/25/xbox-november-update-gaming-copilot-full-screen-experience/) |
 
 ### pending
@@ -99,17 +99,21 @@ clock's ticking.
 
 | company | promise | promised | deadline | verdict | sources |
 |---|---|---|---|---|---|
-| Apple | Customers can pre-order the new 14-inch MacBook Pro with M6 starting tomorrow, October… | starting tomorrow, October 28 | 29 Oct 2026 | ⏳ 1 day left | [source](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) |
-| Moonshot AI | Full model weights will be released by Nov 4, 2026. | by Nov 4, 2026 | 4 Nov 2026 | ⏳ 7 days left | [source](https://www.kimi.ai/blog/kimi-k3-1-pro) |
-| Apple | It will begin arriving to customers, and in Apple Store locations and Apple Authorized… | starting Friday, November 6 | 7 Nov 2026 | ⏳ 10 days left | [source](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) |
-| VX Framework | This is the last release before 1.0, which will be next week. | next week | 8 Nov 2026 | ⏳ 11 days left | [post](https://x.com/VX_Framework/status/2115043522042540505) |
-| Rockstar Games | Grand Theft Auto VI will now release on Thursday, November 19, 2026. | Thursday, November 19, 2026 | 19 Nov 2026 | ⏳ 22 days left | [post](https://x.com/RockstarGames/status/1986540361011880167) |
-| Tesla | In fact, next month, we'll be launching in Dallas and then the same software just scaled… | next month (Dallas Cybercab) | 30 Nov 2026 | ⏳ 33 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
-| PlayStation | PlayStation: The First 30 Years is available to order now, shipping in November | shipping in November | 30 Nov 2026 | ⏳ 33 days left | [post](https://x.com/PlayStation/status/2115103862235488669) |
-| Google | Coming first this fall: audio glasses designed to give you help from Gemini to take… | this fall | 20 Dec 2026 | ⏳ 53 days left | [post](https://x.com/Google/status/2056805831237386360) |
-| Nintendo | The Legend of Zelda: Ocarina of Time is coming to #NintendoSwitch2 later this year. | later this year | 31 Dec 2026 | ⏳ 64 days left | [post](https://x.com/NintendoUK/status/2064360851235033255) |
-| Tesla | we're trying to get Cybercabs to customers by the end of this year, 2026. | end of this year, 2026 | 31 Dec 2026 | ⏳ 64 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
-| PlayStation | Conan Exiles Enhanced and Aloft launch on PS5 in early 2027 | early 2027 | 30 Apr 2027 | ⏳ 184 days left | [post](https://x.com/PlayStation/status/2115111881153368322) |
+| Google | We’re rolling it out starting this week to cyber defenders through our Fairwind Program | starting this week | 1 Nov 2026 | ⏳ 3 days left | [post](https://x.com/Google/status/2115489533923897548) |
+| Moonshot AI | Full model weights will be released by Nov 4, 2026. | by Nov 4, 2026 | 4 Nov 2026 | ⏳ 6 days left | [source](https://www.kimi.ai/blog/kimi-k3-1-pro) |
+| Apple | It will begin arriving to customers, and in Apple Store locations and Apple Authorized… | starting Friday, November 6 | 7 Nov 2026 | ⏳ 9 days left | [source](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) |
+| Apple | It will begin arriving to customers, and in Apple Store locations and Apple Authorized… | starting Friday, November 6 | 7 Nov 2026 | ⏳ 9 days left | [source](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) |
+| VX Framework | This is the last release before 1.0, which will be next week. | next week | 8 Nov 2026 | ⏳ 10 days left | [post](https://x.com/VX_Framework/status/2115043522042540505) |
+| Rockstar Games | Grand Theft Auto VI will now release on Thursday, November 19, 2026. | Thursday, November 19, 2026 | 19 Nov 2026 | ⏳ 21 days left | [post](https://x.com/RockstarGames/status/1986540361011880167) |
+| Tesla | In fact, next month, we'll be launching in Dallas and then the same software just scaled… | next month (Dallas Cybercab) | 30 Nov 2026 | ⏳ 32 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
+| PlayStation | PlayStation: The First 30 Years is available to order now, shipping in November | shipping in November | 30 Nov 2026 | ⏳ 32 days left | [post](https://x.com/PlayStation/status/2115103862235488669) |
+| Google | Coming first this fall: audio glasses designed to give you help from Gemini to take… | this fall | 20 Dec 2026 | ⏳ 52 days left | [post](https://x.com/Google/status/2056805831237386360) |
+| Nintendo | The Legend of Zelda: Ocarina of Time is coming to #NintendoSwitch2 later this year. | later this year | 31 Dec 2026 | ⏳ 63 days left | [post](https://x.com/NintendoUK/status/2064360851235033255) |
+| Tesla | we're trying to get Cybercabs to customers by the end of this year, 2026. | end of this year, 2026 | 31 Dec 2026 | ⏳ 63 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
+| PlayStation | Until Dawn 2, launching January 28, 2027. | January 28, 2027 | 28 Jan 2027 | ⏳ 91 days left | [post](https://x.com/PlayStation/status/2115469962609574117) |
+| Nintendo | Slime Rancher 2 is coming to Nintendo Switch 2 in January 2027. | January 2027 | 31 Jan 2027 | ⏳ 94 days left | [post](https://x.com/NintendoAmerica/status/2115450098414981537) |
+| PlayStation | Introducing the transparent Prism Collection, launching February 4 | February 4 | 4 Feb 2027 | ⏳ 98 days left | [post](https://x.com/PlayStation/status/2115459064981512662) |
+| PlayStation | Conan Exiles Enhanced and Aloft launch on PS5 in early 2027 | early 2027 | 30 Apr 2027 | ⏳ 183 days left | [post](https://x.com/PlayStation/status/2115111881153368322) |
 
 ### on time
 
@@ -118,6 +122,7 @@ credit where it's due.
 | company | promise | promised | deadline | verdict | sources |
 |---|---|---|---|---|---|
 | Artificial Analysis | Tomorrow. | tomorrow | 28 Oct 2026 | ✅ shipped 28 Oct 2026 | [post](https://x.com/ArtificialAnlys/status/2114889320012333423) · [shipped](https://x.com/ArtificialAnlys/status/2115265133467635877) |
+| Apple | Customers can pre-order the new 14-inch MacBook Pro with M6 starting tomorrow, October… | starting tomorrow, October 28 | 29 Oct 2026 | ✅ shipped 28 Oct 2026 | [source](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) · [shipped](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-m6) |
 | Google | Be on the lookout for the update in the next 24hr! | in the next 24hr | 28 Oct 2026 | ✅ shipped 26 Oct 2026 | [post](https://x.com/rodydavis/status/2114878923360342066) · [shipped](https://antigravity.google/docs/changelog/#rel-ide-2.6.0) |
 | Google | Introducing Googlebook, the first laptop designed for Gemini Intelligence. It’s crafted… | this fall | 20 Dec 2026 | ✅ shipped 4 Oct 2026 | [post](https://x.com/Google/status/2054270454467121187) · [shipped](https://www.androidauthority.com/googlebook-availability-release-freebies-3713298/) |
 | PlayStation | State of Play just debuted a extended look at Control Resonant, coming to PS5 later this… | later this year | 31 Dec 2026 | ✅ shipped 24 Sep 2026 | [post](https://x.com/PlayStation/status/2022074133027385673) · [shipped](https://www.remedygames.com/article/control-resonant-launches-worldwide-on-september-24) |
