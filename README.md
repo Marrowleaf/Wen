@@ -66,9 +66,9 @@ we score what was actually promised. if they said "generally available", a previ
 
 <!-- SCOREBOARD:START -->
 
-_last updated 5 Nov 2026 (UK). generated from [`data/tracker.csv`](data/tracker.csv) by [`scripts/build_readme.py`](scripts/build_readme.py)._
+_last updated 6 Nov 2026 (UK). generated from [`data/tracker.csv`](data/tracker.csv) by [`scripts/build_readme.py`](scripts/build_readme.py)._
 
-**52 promises tracked: 23 on time, 3 late, 5 overdue, 16 pending, 5 vague (not scored).**
+**53 promises tracked: 23 on time, 3 late, 5 overdue, 17 pending, 5 vague (not scored).**
 
 **on-time rate: 74%** (23 of 31 promises whose deadline has passed or that already shipped).
 
@@ -78,11 +78,11 @@ deadline's gone, no sign of it.
 
 | company | promise | promised | deadline | verdict | sources |
 |---|---|---|---|---|---|
-| Rockstar Games | Grand Theft Auto VI is now set to release on May 26, 2026. | May 26, 2026 | 26 May 2026 | 🔴 163 days overdue | [post](https://x.com/RockstarGames/status/1918265468076605706) |
-| PlayStation | The FlexStrike wireless fight stick and PlayStation 27’’ Gaming Monitor launch this August | this August | 31 Aug 2026 | 🔴 66 days overdue | [post](https://x.com/PlayStation/status/2061462930864910415) |
-| Uber | Starting this summer in Las Vegas and next year in Los Angeles, Uber riders can get… | this summer (Las Vegas) | 22 Sep 2026 | 🔴 44 days overdue | [post](https://x.com/Uber/status/2031717139715928492) |
-| Nintendo | Kyoto Xanadu, a brand-new action RPG from @nihonfalcom, is coming this summer on Nintendo… | this summer | 22 Sep 2026 | 🔴 44 days overdue | [post](https://x.com/NintendoAmerica/status/2019415907945128016) |
-| Google | We’re rolling it out starting this week to cyber defenders through our Fairwind Program | starting this week | 4 Nov 2026 | 🔴 1 day overdue | [post](https://x.com/Google/status/2115489533923897548) |
+| Rockstar Games | Grand Theft Auto VI is now set to release on May 26, 2026. | May 26, 2026 | 26 May 2026 | 🔴 164 days overdue | [post](https://x.com/RockstarGames/status/1918265468076605706) |
+| PlayStation | The FlexStrike wireless fight stick and PlayStation 27’’ Gaming Monitor launch this August | this August | 31 Aug 2026 | 🔴 67 days overdue | [post](https://x.com/PlayStation/status/2061462930864910415) |
+| Uber | Starting this summer in Las Vegas and next year in Los Angeles, Uber riders can get… | this summer (Las Vegas) | 22 Sep 2026 | 🔴 45 days overdue | [post](https://x.com/Uber/status/2031717139715928492) |
+| Nintendo | Kyoto Xanadu, a brand-new action RPG from @nihonfalcom, is coming this summer on Nintendo… | this summer | 22 Sep 2026 | 🔴 45 days overdue | [post](https://x.com/NintendoAmerica/status/2019415907945128016) |
+| Google | We’re rolling it out starting this week to cyber defenders through our Fairwind Program | starting this week | 4 Nov 2026 | 🔴 2 days overdue | [post](https://x.com/Google/status/2115489533923897548) |
 
 ### late
 
@@ -100,22 +100,23 @@ clock's ticking.
 
 | company | promise | promised | deadline | verdict | sources |
 |---|---|---|---|---|---|
-| Apple | It will begin arriving to customers, and in Apple Store locations and Apple Authorized… | starting Friday, November 6 | 7 Nov 2026 | ⏳ 2 days left | [source](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) |
-| Apple | It will begin arriving to customers, and in Apple Store locations and Apple Authorized… | starting Friday, November 6 | 7 Nov 2026 | ⏳ 2 days left | [source](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) |
-| VX Framework | This is the last release before 1.0, which will be next week. | next week | 8 Nov 2026 | ⏳ 3 days left | [post](https://x.com/VX_Framework/status/2115043522042540505) |
-| Netflix | Cunk on Cinema premieres November 15. | November 15 | 15 Nov 2026 | ⏳ 10 days left | [post](https://x.com/netflix/status/2115813406536004057) |
-| Rockstar Games | Grand Theft Auto VI will now release on Thursday, November 19, 2026. | Thursday, November 19, 2026 | 19 Nov 2026 | ⏳ 14 days left | [post](https://x.com/RockstarGames/status/1986540361011880167) |
-| PlayStation | Learn more ahead of the November 19 launch | November 19 | 19 Nov 2026 | ⏳ 14 days left | [post](https://x.com/PlayStation/status/2115806143725645830) |
-| Tesla | In fact, next month, we'll be launching in Dallas and then the same software just scaled… | next month (Dallas Cybercab) | 30 Nov 2026 | ⏳ 25 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
-| PlayStation | PlayStation: The First 30 Years is available to order now, shipping in November | shipping in November | 30 Nov 2026 | ⏳ 25 days left | [post](https://x.com/PlayStation/status/2115103862235488669) |
-| Netflix | Pride and Prejudice. December 3. | December 3 | 3 Dec 2026 | ⏳ 28 days left | [post](https://x.com/netflix/status/2115836057174294594) |
-| Google | Coming first this fall: audio glasses designed to give you help from Gemini to take… | this fall | 20 Dec 2026 | ⏳ 45 days left | [post](https://x.com/Google/status/2056805831237386360) |
-| Nintendo | The Legend of Zelda: Ocarina of Time is coming to #NintendoSwitch2 later this year. | later this year | 31 Dec 2026 | ⏳ 56 days left | [post](https://x.com/NintendoUK/status/2064360851235033255) |
-| Tesla | we're trying to get Cybercabs to customers by the end of this year, 2026. | end of this year, 2026 | 31 Dec 2026 | ⏳ 56 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
-| PlayStation | Until Dawn 2, launching January 28, 2027. | January 28, 2027 | 28 Jan 2027 | ⏳ 84 days left | [post](https://x.com/PlayStation/status/2115469962609574117) |
-| Nintendo | Slime Rancher 2 is coming to Nintendo Switch 2 in January 2027. | January 2027 | 31 Jan 2027 | ⏳ 87 days left | [post](https://x.com/NintendoAmerica/status/2115450098414981537) |
-| PlayStation | Introducing the transparent Prism Collection, launching February 4 | February 4 | 4 Feb 2027 | ⏳ 91 days left | [post](https://x.com/PlayStation/status/2115459064981512662) |
-| PlayStation | Conan Exiles Enhanced and Aloft launch on PS5 in early 2027 | early 2027 | 30 Apr 2027 | ⏳ 176 days left | [post](https://x.com/PlayStation/status/2115111881153368322) |
+| Apple | It will begin arriving to customers, and in Apple Store locations and Apple Authorized… | starting Friday, November 6 | 7 Nov 2026 | ⏳ 1 day left | [source](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) |
+| Apple | It will begin arriving to customers, and in Apple Store locations and Apple Authorized… | starting Friday, November 6 | 7 Nov 2026 | ⏳ 1 day left | [source](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) |
+| VX Framework | This is the last release before 1.0, which will be next week. | next week | 8 Nov 2026 | ⏳ 2 days left | [post](https://x.com/VX_Framework/status/2115043522042540505) |
+| Netflix | Cunk on Cinema premieres November 15. | November 15 | 15 Nov 2026 | ⏳ 9 days left | [post](https://x.com/netflix/status/2115813406536004057) |
+| Rockstar Games | Grand Theft Auto VI will now release on Thursday, November 19, 2026. | Thursday, November 19, 2026 | 19 Nov 2026 | ⏳ 13 days left | [post](https://x.com/RockstarGames/status/1986540361011880167) |
+| PlayStation | Learn more ahead of the November 19 launch | November 19 | 19 Nov 2026 | ⏳ 13 days left | [post](https://x.com/PlayStation/status/2115806143725645830) |
+| Tesla | In fact, next month, we'll be launching in Dallas and then the same software just scaled… | next month (Dallas Cybercab) | 30 Nov 2026 | ⏳ 24 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
+| PlayStation | PlayStation: The First 30 Years is available to order now, shipping in November | shipping in November | 30 Nov 2026 | ⏳ 24 days left | [post](https://x.com/PlayStation/status/2115103862235488669) |
+| Mistral AI | Apps (public preview), Managed Agents (public preview), Workflows (GA) are available on… | at the end of November | 30 Nov 2026 | ⏳ 24 days left | [post](https://x.com/MistralAI/status/2118370261657383184) |
+| Netflix | Pride and Prejudice. December 3. | December 3 | 3 Dec 2026 | ⏳ 27 days left | [post](https://x.com/netflix/status/2115836057174294594) |
+| Google | Coming first this fall: audio glasses designed to give you help from Gemini to take… | this fall | 20 Dec 2026 | ⏳ 44 days left | [post](https://x.com/Google/status/2056805831237386360) |
+| Nintendo | The Legend of Zelda: Ocarina of Time is coming to #NintendoSwitch2 later this year. | later this year | 31 Dec 2026 | ⏳ 55 days left | [post](https://x.com/NintendoUK/status/2064360851235033255) |
+| Tesla | we're trying to get Cybercabs to customers by the end of this year, 2026. | end of this year, 2026 | 31 Dec 2026 | ⏳ 55 days left | [source](https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/) |
+| PlayStation | Until Dawn 2, launching January 28, 2027. | January 28, 2027 | 28 Jan 2027 | ⏳ 83 days left | [post](https://x.com/PlayStation/status/2115469962609574117) |
+| Nintendo | Slime Rancher 2 is coming to Nintendo Switch 2 in January 2027. | January 2027 | 31 Jan 2027 | ⏳ 86 days left | [post](https://x.com/NintendoAmerica/status/2115450098414981537) |
+| PlayStation | Introducing the transparent Prism Collection, launching February 4 | February 4 | 4 Feb 2027 | ⏳ 90 days left | [post](https://x.com/PlayStation/status/2115459064981512662) |
+| PlayStation | Conan Exiles Enhanced and Aloft launch on PS5 in early 2027 | early 2027 | 30 Apr 2027 | ⏳ 175 days left | [post](https://x.com/PlayStation/status/2115111881153368322) |
 
 ### on time
 
